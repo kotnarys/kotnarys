@@ -10,4 +10,6 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=47c5FB)
 ![Solidity](https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=Solidity&logoColor=47c5FB)
 
-Contact me
+### Contact me
+
+[![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=Vk&logoColor=47c5FB)](https://vk.com/kotnarys)
