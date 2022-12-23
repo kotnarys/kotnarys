@@ -1,4 +1,4 @@
-![Header](https://1agenstvo.ru/800/600/https/pbs.twimg.com/media/D80QkXBXYAE0tu1.png)
+![Header](https://www.krojac.com/wp-content/uploads/2017/05/frontend-developer-1920x400.png)
 
 About me
 
