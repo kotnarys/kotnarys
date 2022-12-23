@@ -5,6 +5,6 @@ About me
 
 ##Languaged and Tools
 
-![HTML(]https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTMl&logoColor=47c5FB)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTMl&logoColor=47c5FB)
 
 Contact me
