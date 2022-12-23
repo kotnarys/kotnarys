@@ -20,4 +20,4 @@
 
 #### My statistic on GitHub
 
-![kotnarys's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotnarys&show_icons=true&hide=issues,contribs)
+![kotnarys's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotnarys&show_icons=true&hide=issues,contribs&theme=dracula)
