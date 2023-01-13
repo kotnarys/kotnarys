@@ -17,7 +17,3 @@
 [![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=Vk&logoColor=blue)](https://vk.com/kotnarys)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=47c5FB)](https://t.me/kotnarys)
 [![CodeWars](https://img.shields.io/badge/CodeWars-090909?style=for-the-badge&logo=codewars&logoColor=orange)](https://www.codewars.com/users/kotnarys)
-
-#### My statistic on GitHub
-
-![kotnarys's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotnarys&show_icons=true&hide=issues,contribs&theme=dracula)
