@@ -1,8 +1,7 @@
 ![Header](https://www.krojac.com/wp-content/uploads/2017/05/frontend-developer-1920x400.png)
 
 
-#                                                                    Web Developer 
-## I am a team leader of my own development team in the Fragmentary project, I have experience building a workflow in a team, I also practiced the ability to use GIT, React, Solidity in a project, I also have a diploma from the GuideDAO school
+# I am a team leader of my own development team in the Fragmentary project, I have experience building a workflow in a team, I also practiced the ability to use GIT, React, Solidity in a project, I also have a diploma from the GuideDAO school
 
 ### Languaged and tools
 
