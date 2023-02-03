@@ -1,7 +1,7 @@
 ![Header](https://www.krojac.com/wp-content/uploads/2017/05/frontend-developer-1920x400.png)
 
 
-#  👨‍💻 I am a team leader of my own development team in the Fragmentary project, I have experience building a workflow in a team, I also practiced the ability to use GIT, React, Solidity in a project, I also have a diploma from the GuideDAO school <br> <br> 🙋🏼‍♂️ I am very sociable and easy to learn, I know how to take responsibility and defend my point of view
+#  👨‍💻 I am a team leader of my own development team in the Fragmentify project, I have experience building a workflow in a team, I also practiced the ability to use GIT, React, Solidity in a project, I also have a diploma from the GuideDAO school <br> <br> 🙋🏼‍♂️ I am very sociable and easy to learn, I know how to take responsibility and defend my point of view
 
 ### Languaged and tools
 
