@@ -11,6 +11,8 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=orange)
 ![Yarn](https://img.shields.io/badge/-Yarn-090909?style=for-the-badge&logo=yarn&logoColor=blue)
 ![tailwind](https://img.shields.io/badge/-tailwind-090909?style=for-the-badge&logo=tailwind&logoColor=blue)
+![next](https://img.shields.io/badge/-next-090909?style=for-the-badge&logo=next&logoColor=blue)
+
 
 
 ### More me
