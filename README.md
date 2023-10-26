@@ -1,5 +1,4 @@
-![Header](https://www.krojac.com/wp-content/uploads/2017/05/frontend-developer-1920x400.png)
-
+![Header](./github-header-image.png)
 
 👋 Hello, I'm Konstantin, an aspiring AI developer exploring the fascinating world of artificial intelligence and machine learning. 🤖
 
