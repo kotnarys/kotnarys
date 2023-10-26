@@ -1,18 +1,26 @@
 ![Header](https://www.krojac.com/wp-content/uploads/2017/05/frontend-developer-1920x400.png)
 
 
-#  👨‍💻 I am a team leader of my own development team in the Fragmentify project, I have experience building a workflow in a team, I also practiced the ability to use GIT, Next, Solidity in a project, I also have a diploma from the GuideDAO school <br> <br> 🙋🏼‍♂️ I am very sociable and easy to learn, I've been doing sports for half a year now, I'm not confrontational. 
+👋 Hello, I'm Konstantin, an aspiring AI developer exploring the fascinating world of artificial intelligence and machine learning. 🤖
+
+🚀 I'm on a journey to harness the power of AI to solve real-world problems and make our lives better through innovation and technology.
+
+🌱 Currently, I'm sharpening my skills in AI, data science, and deep learning. I'm passionate about creating intelligent systems that can learn, adapt, and make intelligent decisions.
+
+💡 My interests include computer vision, natural language processing, and reinforcement learning. I'm always eager to learn and grow, and I believe that the AI field offers limitless possibilities.
+
+🛠️ In my toolbox, you'll find Python, TensorFlow, PyTorch, and various data science libraries. I'm constantly exploring new technologies and methodologies to expand my AI toolkit.
+
+🌟 Let's connect, collaborate, and learn from each other. Feel free to reach out if you share a passion for AI, coding, or just want to chat about the latest advancements in the field.
+
 
 ### Languaged and tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=47c5FB)
 ![Solidity](https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=Solidity&logoColor=47c5FB)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=orange)
-![Yarn](https://img.shields.io/badge/-Yarn-090909?style=for-the-badge&logo=yarn&logoColor=blue)
-
-
-
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=TensorFlow&logoColor=47c5FB)
 
 
 ### More me
